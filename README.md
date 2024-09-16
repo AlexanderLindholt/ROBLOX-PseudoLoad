@@ -20,8 +20,7 @@ Inside of the main module you will find a submodule named `Configuration`.
 Open it up and you'll see a few configuration options, and they should be explained to the best of my abiltity.
 
 <br><br/>
-<br><br/>
-### But,
+#### But,
 before you go, I'd like to let you know that any feedback is greatly appreciated,
 as it helps improve the user experience for everyone. It's what open source is all about - bringing a great, free solution to everyone.
 
