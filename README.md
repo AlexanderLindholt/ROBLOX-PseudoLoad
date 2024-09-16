@@ -1,3 +1,4 @@
+```
   _____                    _       _                     _ 
  |  __ \                  | |     | |                   | |
  | |__) |__  ___ _   _  __| | ___ | |     ___   __ _  __| |
@@ -5,8 +6,10 @@
  | |   \__ \  __/ |_| | (_| | (_) | |___| (_) | (_| | (_| |
  |_|   |___/\___|\__,_|\__,_|\___/|______\___/ \__,_|\__,_|
  - IntoDev
+```
 
 An open source ROBLOX loading screen aiming to be as real as possible - in reality being fake to a degree.
+
 
 # How to use
 Simply download the rbxm file and drag it from your file explorer and into studio.
