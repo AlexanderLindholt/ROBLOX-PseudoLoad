@@ -1,6 +1,5 @@
 # PseudoLoad
-An open-source ROBLOX loading screen designed to replicate the look of a genuine loading process,<br><br/>
-though the effect is largely simulated.
+An open-source ROBLOX loading screen designed to replicate the look of a genuine loading process, though the effect is largely simulated.
 <br><br/>
 
 You may be confused as to why essentially faking the loading process is useful.
@@ -29,7 +28,6 @@ Once you've edited the values, you're good to go!
 <br><br/>
 **But,**
 
-before you go, I'd like to let you know that any feedback is greatly appreciated,<br><br/>
-as it helps improve the user experience for everyone. It's what open source is all about - bringing a great, free solution to everyone.
+before you go, I'd like to let you know that any feedback is greatly appreciated, as it helps improve the user experience for everyone. It's what open source is all about - bringing a great, free solution to everyone.
 
 *Contact me on Discord* ***Im_IntoDev***.
