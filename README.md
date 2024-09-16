@@ -1,4 +1,4 @@
-```
+**```
   _____                    _       _                     _ 
  |  __ \                  | |     | |                   | |
  | |__) |__  ___ _   _  __| | ___ | |     ___   __ _  __| |
@@ -6,7 +6,7 @@
  | |   \__ \  __/ |_| | (_| | (_) | |___| (_) | (_| | (_| |
  |_|   |___/\___|\__,_|\__,_|\___/|______\___/ \__,_|\__,_|
  - IntoDev
-```
+```**
 
 An open source ROBLOX loading screen aiming to be as real as possible - in reality being fake to a degree.
 
@@ -29,7 +29,9 @@ Open it up and you'll see a few configuration options, and they should be explai
 
 
 
+
 **But,**
 before you go, I'd like to let you know that any feedback is greatly appreciated,
 as it helps improve the user experience for everyone. It's what open source is all about - bringing a great, free solution to everyone.
+
 *Contact me on Discord* ***Im_IntoDev***.
