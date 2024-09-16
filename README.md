@@ -1,13 +1,17 @@
 # PseudoLoad
-
-An open source ROBLOX loading screen aiming to be as real as possible - in reality being fake to a degree.
+An open-source ROBLOX loading screen designed to replicate the look of a genuine loading process, though the effect is largely simulated.
 <br><br/>
 
-## How to use
-Simply download the rbxm file and drag it from your file explorer and into studio.
-Then, you can simply drag it right at your preferred location - i'd recommend parenting it to ReplicatedFirst, where your loading screen code should be anyways.
+You may be confused as to why essentially faking the loading process is useful.
+And the answer is simple.
+**True loading screens are impossible.**
 
-Below is an extremely simple example use of the module.
+## How to use
+1. Download the `.rbxm` file.
+2. Drag and drop the file from your file explorer into Roblox Studio.
+3. Parent the module to ReplicatedFirst to ensure it appears during the loading phase. This is the recommended location for any loading screen code.
+
+Below is a simple example use of the module.
 ```lua
 require(script.PseudoLoad)() -- will yield.
 
@@ -15,9 +19,11 @@ print("Finished loading!")
 ```
 
 ## Configuration
-Before you use it, you may want to do an optional configuration.
+Before you use it, you may want to explore the optional configuration options.
+
 Inside of the main module you will find a submodule named `Configuration`.
-Open it up and you'll see a few configuration options, and they should be explained to the best of my abiltity.
+Open it up and you'll see a few configuration options, which are explained to the best of my abiltity.
+Once you've edited the values, you're good to go!
 
 <br><br/>
 **But,**
