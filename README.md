@@ -25,8 +25,7 @@ Inside of the main module you will find a submodule named `Configuration`.
 Open it up and you'll see a few configuration options, which are explained to the best of my abiltity.
 Once you've edited the values, you're good to go!
 
-<br><br/>
-# Feedback
+## Feedback
 Your feedback is highly appreciated, as it helps improve the user experience for everyone. Feel free to reach out if you have suggestions or run into issues.
 
 **Contact: Discord:** ***Im_IntoDev***
