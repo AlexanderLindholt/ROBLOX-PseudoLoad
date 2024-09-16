@@ -28,4 +28,4 @@ Once you've edited the values, you're good to go!
 ## Feedback
 Your feedback is highly appreciated, as it helps improve the user experience for everyone. Feel free to reach out if you have suggestions or run into issues.
 
-**Contact: Discord:** ***Im_IntoDev***
+**Contact:** Discord: *Im_IntoDev*
