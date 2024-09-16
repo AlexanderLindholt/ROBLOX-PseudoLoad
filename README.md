@@ -2,9 +2,8 @@
 An open-source ROBLOX loading screen designed to replicate the look of a genuine loading process, though the effect is largely simulated.
 <br><br/>
 
-You may be confused as to why essentially faking the loading process is useful.
-And the answer is simple.
-**True loading screens are impossible.**
+You might wonder why simulating a loading process is useful.
+The answer is simple: **creating real loading screens is often impossible.**
 
 ## How to use
 1. Download the `.rbxm` file.
