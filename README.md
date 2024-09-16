@@ -4,7 +4,7 @@
 An open source ROBLOX loading screen aiming to be as real as possible - in reality being fake to a degree.
 
 
-# How to use
+## How to use
 Simply download the rbxm file and drag it from your file explorer and into studio.
 Then, you can simply drag it right at your preferred location - i'd recommend parenting it to ReplicatedFirst, where your loading screen code should be anyways.
 
@@ -15,7 +15,7 @@ require(script.PseudoLoad)() -- will yield.
 print("Finished loading!")
 ```
 
-# Configuration
+## Configuration
 Before you use it, you may want to do an optional configuration.
 Inside of the main module you will find a submodule named `Configuration`.
 Open it up and you'll see a few configuration options, and they should be explained to the best of my abiltity.
@@ -23,7 +23,7 @@ Open it up and you'll see a few configuration options, and they should be explai
 
 
 
-**But,**
+### But,
 before you go, I'd like to let you know that any feedback is greatly appreciated,
 as it helps improve the user experience for everyone. It's what open source is all about - bringing a great, free solution to everyone.
 
