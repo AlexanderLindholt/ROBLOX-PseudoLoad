@@ -21,7 +21,7 @@ Inside of the main module you will find a submodule named `Configuration`.
 Open it up and you'll see a few configuration options, and they should be explained to the best of my abiltity.
 
 
-< br / >
+<br><br/>
 
 ### But,
 before you go, I'd like to let you know that any feedback is greatly appreciated,
