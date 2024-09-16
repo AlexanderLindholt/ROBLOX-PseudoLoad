@@ -11,7 +11,7 @@ And the answer is simple.
 2. Drag and drop the file from your file explorer into Roblox Studio.
 3. Parent the module to ReplicatedFirst to ensure it appears during the loading phase. This is the recommended location for any loading screen code.
 
-Below is a simple example use of the module.
+**Below is a simple example use of the module.**
 ```lua
 require(script.PseudoLoad)() -- will yield.
 
