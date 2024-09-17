@@ -1,5 +1,5 @@
 # PseudoLoad
-An open-source ROBLOX loading screen designed to replicate the look of a genuine loading process, though the effect is largely simulated.
+An open-source ROBLOX loading module designed to replicate the look of a genuine loading process, though the effect is largely simulated.
 <br><br/>
 
 You might wonder why simulating a loading process is useful.
