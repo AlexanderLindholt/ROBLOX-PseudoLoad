@@ -6,7 +6,7 @@ You might wonder why simulating a loading process is useful.
 The answer is simple: **creating real loading screens is often impossible.**
 
 ## 🌐Explore more
-Like what you're seeing? Find more at https://discord.gg/R9hp2vbpP5.
+Like what you're seeing? Find more in [my community server](https://discord.gg/R9hp2vbpP5).
 
 ## 🚀How to use
 1. Download the `.rbxm` file.
@@ -30,4 +30,4 @@ Once you've edited the values, you're good to go!
 ## 💬Feedback
 Your feedback is highly appreciated, as it helps improve the user experience for everyone. Feel free to reach out if you have suggestions or run into issues.
 
-**Contact:** Discord: *Im_IntoDev* or https://discord.gg/R9hp2vbpP5
+**Contact:** Discord: *Im_IntoDev* or [my community server](https://discord.gg/R9hp2vbpP5)
