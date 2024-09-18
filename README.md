@@ -3,12 +3,14 @@
 <br><br/>
 
 **But,** you might wonder why simulating a loading process is useful.
-The answer is simple: **creating "real", accurate loading screens is basically impossible.**
 
-## 🌐Explore more
+The answer is simple: **creating "real", accurate loading screens is basically impossible.**
+<br><br/>
+
+## 🌐Discover more
 Like what you're seeing? Find more in [my community server](https://discord.gg/R9hp2vbpP5).
 
-## 🚀How to use
+## 🚀Get started
 1. Download the `.rbxm` file.
 2. Drag and drop the file from your file explorer into Roblox Studio.
 3. Parent the module to ReplicatedFirst to ensure it appears during the loading phase. This is the recommended location for any loading screen code.
