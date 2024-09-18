@@ -1,14 +1,15 @@
 # <p align="center">⚡PseudoLoad⚡</p>
 <p align="center">An open-source ROBLOX loading module designed to replicate the look of a genuine loading process, though the effect is largely simulated.</p>
-<br><br/>
+<div align="center">
 
+[Devforum post]() | [Roblox model](https://create.roblox.com/store/asset/138658986432597/TextFlex) | [Community](https://discord.gg/R9hp2vbpP5)
+
+</div>
+<br><br/>
 **But,** you might wonder why simulating a loading process is useful.
 
 The answer is simple: **creating "real", accurate loading screens is basically impossible.**
 <br><br/>
-
-## 🌐Discover more
-Like what you're seeing? Find more in [my community server](https://discord.gg/R9hp2vbpP5).
 
 ## 🚀Get started
 1. Download the `.rbxm` file.
