@@ -8,7 +8,7 @@
 </div>
 <br><br/>
 
-## Loading screens in ROBLOX are like randomness—truly impossible.<br>But just as we have pseudorandom numbers, we can have pseudoloading screens.<br><br>This module gets as close to the real thing as possible.
+## Loading screens in Roblox are like randomness—truly impossible.<br>But just as we have pseudorandom numbers, we can have pseudoloading screens.<br><br>This module gets as close to the real thing as possible.
 <br>
 <br>
 <br>
