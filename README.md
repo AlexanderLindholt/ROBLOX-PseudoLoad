@@ -1,37 +1,57 @@
 # <p align="center">⚡PseudoLoad⚡</p>
-<p align="center">An open-source ROBLOX loading module designed to replicate the look of a genuine loading process, though the effect is largely simulated.</p>
+<p align="center">A realistic Roblox loading module that yields until your game fully loads
+<br>—offering a true-to-life loading experience without any UI gimmicks.</p>
 <div align="center">
 
-[Devforum post]() | [Roblox model](https://create.roblox.com/dashboard/creations/store/138658986432597/PseudoLoad) | [Community](https://discord.gg/R9hp2vbpP5)
+[Devforum post]() | [Roblox model](https://create.roblox.com/library/138658986432597) | [Community](https://discord.gg/MKXWuqTvsx)
 
 </div>
 <br><br/>
 
-**But,** you might wonder why simulating a loading process is useful.
+## Loading screens in ROBLOX are like randomness—truly impossible.<br>But just as we have pseudorandom numbers, we can have pseudoloading screens.<br><br>This module gets as close to the real thing as possible.
+<br>
+<br>
+<br>
+<br>
 
-The answer is simple: **creating "real", accurate loading screens is basically impossible.**
-<br><br/>
+# 🚀 Get Started
 
-## 🚀Get started
-1. Download the `.rbxm` file, or import the model from the toolbox..
+### 1. Import the module:
+**• Local download:**
+1. Download the latest `.rbxm` file.  
 2. Drag and drop the file from your file explorer into Roblox Studio.
-3. Parent the module to ReplicatedFirst to ensure it appears during the loading phase. This is the recommended location for any loading screen code.
 
-💡**Below is a simple example use of the module.**
+**•  Creator store:**
+1. Go to the creator store page for the module and press `Get Model`.  
+2. Find and import the model from the toolbox inventory.
+
+### 2. Parent the module to `ReplicatedFirst`
+To ensure it appears during the loading phase, parent the module to `ReplicatedFirst`. This is the recommended location for any loading screen code.
+<br>
+<br>
+### 💡Example use:
 ```lua
-require(script.PseudoLoad)() -- will yield.
-
+require(script.PseudoLoad)()
+-- Everything below here happens after load.
 print("Finished loading!")
 ```
 
-## ⚙️Configuration
+# ⚙️Configuration</h1>
 Before you use it, you may want to explore the optional configuration options.
+<br><br>
+**1. Inside of the main module you will find a submodule named `Configuration`.**
 
-Inside of the main module you will find a submodule named `Configuration`.
-Open it up and you'll see a few configuration options, which are explained to the best of my abiltity.
-Once you've edited the values, you're good to go!
+**2. Open it up and you'll see a few configuration options, which are explained to the best of my abiltity.**
 
-## 💬Feedback
-Your feedback is highly appreciated, as it helps improve the user experience for everyone. Feel free to reach out if you have suggestions or run into issues.
+**3. Once you've edited the values, you're good to go!**
+<br>
+<br>
+<br>
+# 🤔 Share your thoughts
+<b>I appreciate any feedback or constructive criticism</b>, as it helps me get an idea of the community's view on my product.
+<br>
 
-**Contact:** Discord: *Im_IntoDev* or [my community server](https://discord.gg/R9hp2vbpP5)
+If you have any questions, feel free to leave them below as well.
+<br>
+# 🤝 Contribute
+<b>It's an open-source project; a community project</b>. If you're up for helping out, even the slightest bit, let me know at the DevForum!
